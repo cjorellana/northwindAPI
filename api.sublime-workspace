@@ -1,0 +1,350 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/Http/Controllers/CategoriesController.php",
+			"settings":
+			{
+				"buffer_size": 424,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Categories.php",
+			"settings":
+			{
+				"buffer_size": 300,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Http/routes.php",
+			"settings":
+			{
+				"buffer_size": 598,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 127.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/cjorellana/Projects/api",
+		"/Users/cjorellana/Projects/api/app",
+		"/Users/cjorellana/Projects/api/app/Http",
+		"/Users/cjorellana/Projects/api/app/Http/Controllers",
+		"/Users/cjorellana/Projects/api/bootstrap",
+		"/Users/cjorellana/Projects/api/database",
+		"/Users/cjorellana/Projects/api/database/migrations"
+	],
+	"file_history":
+	[
+		"/Users/cjorellana/Projects/api/app/Categories.php",
+		"/Users/cjorellana/Projects/api/database/migrations/2016_03_30_062918_create_categories_table.php",
+		"/Users/cjorellana/Projects/api/bootstrap/app.php",
+		"/Users/cjorellana/Projects/api/.env",
+		"/Users/cjorellana/Projects/api/.gitignore",
+		"/Users/cjorellana/Projects/lumenapi/app/Http/Controllers/ProfesorController.php",
+		"/Users/cjorellana/Projects/lumenapi/app/Http/Controllers/EstudianteController.php",
+		"/Users/cjorellana/Projects/lumenapi/app/Http/Controllers/CursoController.php",
+		"/Users/cjorellana/Projects/lumenapi/app/Http/Controllers/CursoEstudianteController.php",
+		"/Users/cjorellana/Projects/lumenapi/app/Http/Controllers/ProfesorCursoController.php",
+		"/Users/cjorellana/Projects/lumenapi/app/Http/Controllers/Controller.php",
+		"/Users/cjorellana/Projects/lumenapi/database/factories/ModelFactory.php",
+		"/Users/cjorellana/Projects/lumenapi/database/seeds/DatabaseSeeder.php",
+		"/Users/cjorellana/Projects/lumenapi/app/Profesor.php",
+		"/Users/cjorellana/Projects/lumenapi/database/migrations/2016_03_25_075303_CursoMigration.php",
+		"/Users/cjorellana/Projects/lumenapi/app/Curso.php",
+		"/Users/cjorellana/Projects/lumenapi/database/migrations/2016_03_25_075313_CursoEstudianteMigration.php",
+		"/Users/cjorellana/Projects/lumenapi/database/migrations/2016_03_25_073616_ProfesorMigration.php",
+		"/Users/cjorellana/Downloads/Chicago PD - 01x01 - Stepping Stones  (Español (Latinoamérica)).srt",
+		"/Users/cjorellana/Desktop/Chicago.PD.S01E01.srt",
+		"/Users/cjorellana/Projects/lumenapi/database/migrations/2016_03_25_074153_CursoEstudianteMigration.php",
+		"/Users/cjorellana/Projects/lumenapi/database/migrations/2016_03_25_074035_EstudianteMigration.php",
+		"/Users/cjorellana/Projects/lumenapi/app/Estudiante.php",
+		"/Users/cjorellana/Projects/lumenapi/.env",
+		"/Users/cjorellana/Projects/api/vendor/laravel/lumen-framework/config/database.php",
+		"/Users/cjorellana/Projects/api/app/categories.php",
+		"/Users/cjorellana/Projects/course/database/migrations/2016_03_17_045124_create_user_profile_table.php",
+		"/Users/cjorellana/Projects/course/.env",
+		"/Users/cjorellana/Projects/course/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/Users/cjorellana/Projects/course/composer.json",
+		"/Users/cjorellana/Projects/course/database/seeds/AdminTableSeeder.php",
+		"/Users/cjorellana/Projects/course/database/seeds/UserTableSeeder.php",
+		"/Users/cjorellana/Projects/course/database/seeds/DatabaseSeeder.php",
+		"/Users/cjorellana/Projects/course/database/migrations/2016_03_17_054432_drop_active_column_from_users.php",
+		"/Users/cjorellana/Projects/course/database/migrations/2016_03_17_044706_create_tag_table.php",
+		"/Users/cjorellana/Projects/course/app/Http/Controllers/Auth/AuthController.php",
+		"/Users/cjorellana/Projects/course/app/Http/Controllers/Auth/PasswordController.php",
+		"/Users/cjorellana/Projects/course/app/Http/Kernel.php",
+		"/Users/cjorellana/Projects/course/app/Http/Middleware/Authenticate.php",
+		"/Users/cjorellana/Projects/course/resources/views/welcome.blade.php",
+		"/Users/cjorellana/Projects/course/app/Http/Controllers/Controller.php",
+		"/Users/cjorellana/Projects/course/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php",
+		"/Users/cjorellana/Projects/course/vendor/laravel/framework/src/Illuminate/Routing/ResponseFactory.php",
+		"/Users/cjorellana/Projects/course/vendor/laravel/framework/src/Illuminate/Contracts/Routing/ResponseFactory.php",
+		"/Users/cjorellana/Projects/course/app/Http/routes.php",
+		"/Users/cjorellana/Projects/course/app/Providers/RouteServiceProvider.php",
+		"/Users/cjorellana/Projects/course/config/app.php",
+		"/Users/cjorellana/Projects/course/public/index.php",
+		"/Users/cjorellana/Projects/course/config/mail.php",
+		"/Users/cjorellana/Projects/course/app/Commands/Command.php",
+		"/Users/cjorellana/Projects/course/app/Console/Kernel.php"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"profesorController",
+			"profesors",
+			"Dotenv",
+			"/*\n",
+			"Categories",
+			"Dotenv::load"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/Http/Controllers/CategoriesController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 424,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								138,
+								138
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"open_with_edit": true,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/Categories.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 300,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								300,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/Http/routes.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 598,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								462,
+								433
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "api.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 365.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
