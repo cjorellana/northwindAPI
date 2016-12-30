@@ -9,6 +9,7 @@ class CategoriesController extends Controller
 	{
 		$categories = Categories::all();
 		return response()->json($categories, 200);
+		//return response()->json("hola", 200);
 	}
 
 	public function getCategories($id)
